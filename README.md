@@ -1,11 +1,30 @@
-# Projeto pessoal - Jogo da Memória criado com React
+# Jogo da Memória 
 
-Neste projeto pego a estrutura do meu antigo projeto [Jogo da memória](https://github.com/EduuBraga/JogoDaMemoria) e o transcrevo para o React, no intuito de melhorar minha lógica no React. O que foi mudado foi toda a parte do view do projeto antigo, que era criado com JS puro, onde agora com a ajuda do React isso ficou muito mais fácil de se manipular.
+<p align="center">
+  🚧 Jogo da Memória | Concluído 🚀 🚧
+</p>
 
-O projeto foi desenvolvido com ReactJS, Javascript, HTML e CSS.
+## 💻 Sobre o Projeto
+A aplicação trata-se de um Jogo da Memória com o temática de "The Walking Dead". 
+Neste projeto pego a estrutura do meu antigo projeto [Jogo da memória](https://github.com/EduuBraga/JogoDaMemoria) e o transcrevo para o ReactJS, no intuito de melhorar minha lógica no ReactJS. 
 
-Este projeto me ajudou a fixar melhor os meus conhecimentos com ReactJS, onde foi dedicado tempo e esforço para fazer certas interações.
+## ⚙ Funcionalides
+- Opção de Iniciar o Jogo com as cartas do tabuleiro embaralhadas.
+- Opção de recomeçar o jogo.
+- Resultado diferentes de acordo ao tempo de jogo.
 
+## 🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+- ReactJS
+- Javascript
+- CSS3
+- HTML5
 
-![jdmtwd](https://user-images.githubusercontent.com/99041150/189487188-1943f8a2-0670-491f-9ebd-6e3d891f3bcf.jpg)
+## 🎨 View
 
+![jogodamemoria-react](https://user-images.githubusercontent.com/99041150/194713699-45a69150-aecc-4a67-9a85-7b15148b0b43.gif)
+
+<p align="center">
+  <img width="48%" src="https://user-images.githubusercontent.com/99041150/194715463-f5090352-52ce-4e16-921e-404f68eaaafe.jpg" >
+  <img width="48%" src="https://user-images.githubusercontent.com/99041150/194715470-349c4a53-4d5f-48e9-b10e-b3cd461c839c.jpg" >
+</p>
